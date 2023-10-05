@@ -18,14 +18,18 @@
 /* Styles for the HTML Body element */
 
 body {
-  /* Add a background colour of #1d3557ff */
+  background-color: #1d3556ff;
 }
 
-
-/* Then move onto the header styles */
-
 header {
-  /* Set the text colour, margins and padding */
+  background-color: #e63946ff;
+  margin-top: 2rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  border-radius: 1rem;
+  border: 1rem solid #f1faeeff;
 }
 
 header .site-title {
