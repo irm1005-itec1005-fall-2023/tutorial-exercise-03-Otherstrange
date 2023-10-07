@@ -76,6 +76,7 @@ header a:hover {
 main > section {
   border-radius:1rem;
   background-color:#457b9dff;
+  margin: 2rem 0 1rem 0;
 }
 
 /* This fancy code removes the bottom margin from the last section */
@@ -126,7 +127,8 @@ main section.hero img {
 main section.menu {
   background-color:#a8dadcff;
   padding:1rem;
-  border-radius:2rem;
+  border-radius:1rem;
+  color:#f1faeeff;
 }
 
 main section.menu ul {
@@ -135,9 +137,10 @@ main section.menu ul {
 
 main section.menu ul li {
   background-color:#e63946ff;
-  border-radius:2rem;
+  border-radius:1rem;
   margin-top:1rem;
   padding:1rem;
+  color:#f1faeeff;
 }
 
 main section.menu ul li:nth-child(even){
@@ -148,7 +151,7 @@ main section.menu ul li:nth-child(even){
 main section.testimonials {
   padding:1rem;
   background-color:#a8dadcff;
-  border-radius:5rem;
+  border-radius:1rem;
 }
 
 main section.testimonials h2 {
@@ -173,8 +176,8 @@ main section.testimonials blockquote{
   padding:1rem;
   background-color:#1d3557ff;
   color:#f1faeeff;
-  border-bottom-left-radius:2rem;
-  border-bottom-right-radius:2rem;
+  border-bottom-left-radius:1rem;
+  border-bottom-right-radius:1rem;
 }
 
 /* AND THAT'S IT! YOU ARE DONE. CONGRATULATIONS. POST YOUR LINK! */
